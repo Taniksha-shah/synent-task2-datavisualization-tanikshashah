@@ -70,3 +70,9 @@ These visualizations demonstrate how Exploratory Data Analysis helps uncover mea
 ## 📌 Outcome
 
 This project successfully demonstrates the use of visualization techniques to understand the Iris dataset and lays the foundation for future machine learning tasks.
+
+## Screenshots
+![Bar](bar.png)
+![Hist](hist.png)
+![Heatmap](corr.png)
+![Scatter](scatter.png)
