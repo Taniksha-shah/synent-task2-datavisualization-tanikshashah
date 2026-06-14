@@ -1,0 +1,64 @@
+# **Task 4: Interactive CSV Dashboard using Streamlit**
+
+## **1. Introduction**
+
+Interactive dashboards allow users to analyze datasets dynamically without modifying source code. This project develops a Streamlit-based dashboard that enables users to upload CSV files and generate visualizations interactively.
+
+---
+
+## **2. Objective**
+
+The objectives of this project are:
+
+* To build an interactive dashboard using Streamlit.
+* To allow users to upload any CSV dataset.
+* To generate visualizations dynamically.
+* To simplify exploratory data analysis through an intuitive interface.
+
+---
+
+## **3. Dataset Description**
+
+The dashboard supports any CSV dataset containing numerical and categorical features.
+
+For demonstration purposes, the Iris dataset was used.
+
+The application automatically detects feature types and adjusts visualizations accordingly.
+
+---
+
+## **4. Methodology**
+
+The following workflow was implemented:
+
+1. Created a Streamlit application.
+2. Allowed users to upload CSV datasets.
+3. Displayed dataset previews and summary statistics.
+4. Identified numerical and categorical features automatically.
+5. Implemented interactive visualization options:
+
+   * Histogram
+   * Bar Chart
+   * Scatter Plot
+   * Correlation Heatmap
+6. Added sidebar controls for selecting chart types and features.
+
+---
+
+## **5. Results and Discussion**
+
+The dashboard successfully allows users to:
+
+* Upload datasets interactively.
+* Explore datasets without programming knowledge.
+* Generate visualizations instantly.
+* Compare relationships between variables.
+* Analyze correlations among numerical features.
+
+The interface provides a user-friendly environment for performing exploratory data analysis efficiently.
+
+---
+
+## **6. Conclusion**
+
+The project successfully demonstrates how Streamlit can be used to create interactive analytical dashboards. The application transforms static datasets into dynamic visualizations, making data exploration easier and more accessible for users.
